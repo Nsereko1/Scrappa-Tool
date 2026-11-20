@@ -31,3 +31,13 @@ dump_part1.txt
 # IDE
 .vscode/
 .idea/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
