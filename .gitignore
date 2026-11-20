@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Database (large, contains scraped data)
+bestseller.db
+bestseller.db-shm
+bestseller.db-wal
+bestseller.db.backup-*
+
+# Debug / backup files
+*.bak
+*.bak2
+*.bak_*
+*_backup_before_fix/
+debug_*.html
+project_dump.txt
+dump_part1.txt
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
