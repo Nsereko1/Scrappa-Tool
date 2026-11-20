@@ -1,0 +1,672 @@
+[
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-SAMSUNG-GALAXY-A14-1-0",
+    "title": "Samsung Galaxy A14 128GB 4GB RAM Dual SIM Android 13 Black",
+    "price": 277530.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/samsung-galaxy-a14-128gb-4gb-ram-dual-sim-android-13-black-0"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-SAMSUNG-GALAXY-A14-1-1",
+    "title": "Samsung Galaxy A14 128GB Storage 4GB RAM Smartphone",
+    "price": 801952.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/samsung-galaxy-a14-128gb-storage-4gb-ram-smartphone-1"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-SAMSUNG-GALAXY-A14-1-2",
+    "title": "Samsung Galaxy A14 5G 128GB Unlocked Android Smartphone Black",
+    "price": 165.05,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/samsung-galaxy-a14-5g-128gb-unlocked-android-smartphone-black-2"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-SAMSUNG-GALAXY-A14-1-3",
+    "title": "Samsung Galaxy A14 128GB Dual SIM Smartphone - Black",
+    "price": 201.99,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/samsung-galaxy-a14-128gb-dual-sim-smartphone-black-3"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-SAMSUNG-GALAXY-A14-1-4",
+    "title": "Samsung Galaxy A14 128GB 4GB RAM Original Android Phone",
+    "price": 901.01,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/samsung-galaxy-a14-128gb-4gb-ram-original-android-phone-4"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-IPHONE-13-128GB-5",
+    "title": "Apple iPhone 13 128GB 6.1 inch Super Retina XDR Display",
+    "price": 842535.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/apple-iphone-13-128gb-6-1-inch-super-retina-xdr-display-5"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-IPHONE-13-128GB-6",
+    "title": "Apple iPhone 13 128GB Storage 4GB RAM Smartphone",
+    "price": 2402626.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/apple-iphone-13-128gb-storage-4gb-ram-smartphone-6"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-IPHONE-13-128GB-7",
+    "title": "Apple iPhone 13 128GB Unlocked 6.1 inch Super Retina XDR",
+    "price": 631.39,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.amazon.com/product/apple-iphone-13-128gb-unlocked-6-1-inch-super-retina-xdr-7"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-IPHONE-13-128GB-8",
+    "title": "Apple iPhone 13 128GB - Unlocked - Excellent Condition",
+    "price": 540.17,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/apple-iphone-13-128gb-unlocked-excellent-condition-8"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-IPHONE-13-128GB-9",
+    "title": "iPhone 13 128GB Original Apple Smartphone 5G",
+    "price": 3592.22,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/iphone-13-128gb-original-apple-smartphone-5g-9"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-NIKE-AIR-MAX-90-10",
+    "title": "Nike Air Max 90 Running Shoes For Men White",
+    "price": 205095.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/nike-air-max-90-running-shoes-for-men-white-10"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-NIKE-AIR-MAX-90-11",
+    "title": "Nike Air Max 90 Sneakers Men Running Shoes",
+    "price": 572774.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/nike-air-max-90-sneakers-men-running-shoes-11"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-NIKE-AIR-MAX-90-12",
+    "title": "Nike Air Max 90 Men's Running Shoes White/Black",
+    "price": 121.34,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/nike-air-max-90-men-s-running-shoes-white-black-12"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-NIKE-AIR-MAX-90-13",
+    "title": "Nike Air Max 90 Running Shoes - Men's Size 10",
+    "price": 165.94,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/nike-air-max-90-running-shoes-men-s-size-10-13"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-NIKE-AIR-MAX-90-14",
+    "title": "Nike Air Max 90 Men Running Sneakers Original",
+    "price": 422.21,
+    "currency": "CNY",
+    "stock_status": "Out of Stock",
+    "url": "https://www.alibaba.com/product/nike-air-max-90-men-running-sneakers-original-14"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-SONY-WH-1000XM5-15",
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones",
+    "price": 524025.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/sony-wh-1000xm5-wireless-noise-cancelling-headphones-15"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-SONY-WH-1000XM5-16",
+    "title": "Sony WH-1000XM5 Wireless Headphones Noise Cancelling",
+    "price": 1633316.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/sony-wh-1000xm5-wireless-headphones-noise-cancelling-16"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-SONY-WH-1000XM5-17",
+    "title": "Sony WH-1000XM5 Wireless Industry Leading Noise Canceling",
+    "price": 406.19,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/sony-wh-1000xm5-wireless-industry-leading-noise-canceling-17"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-SONY-WH-1000XM5-18",
+    "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Black",
+    "price": 488.38,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.ebay.com/product/sony-wh-1000xm5-wireless-noise-cancelling-headphones-black-18"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-SONY-WH-1000XM5-19",
+    "title": "Sony WH-1000XM5 Headphones Wireless Bluetooth 5.2",
+    "price": 1202.18,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/sony-wh-1000xm5-headphones-wireless-bluetooth-5-2-19"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-ORAIMO-20000MAH-POWE-20",
+    "title": "Oraimo 20000mAh Power Bank 22.5W Fast Charging",
+    "price": 39975.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/oraimo-20000mah-power-bank-22-5w-fast-charging-20"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-ORAIMO-20000MAH-POWE-21",
+    "title": "Oraimo 20000mAh Power Bank Fast Charging Black",
+    "price": 106704.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/oraimo-20000mah-power-bank-fast-charging-black-21"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-ORAIMO-20000MAH-POWE-22",
+    "title": "Oraimo 20000mAh Power Bank Portable Fast Charger",
+    "price": 21.59,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/oraimo-20000mah-power-bank-portable-fast-charger-22"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-ORAIMO-20000MAH-POWE-23",
+    "title": "Oraimo 20000mAh Power Bank 22.5W - Black",
+    "price": 29.38,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/oraimo-20000mah-power-bank-22-5w-black-23"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-ORAIMO-20000MAH-POWE-24",
+    "title": "Oraimo 20000mAh Power Bank Fast Charging 22.5W Original",
+    "price": 148.97,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/oraimo-20000mah-power-bank-fast-charging-22-5w-original-24"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-XIAOMI-REDMI-NOTE-12-25",
+    "title": "Xiaomi Redmi Note 12 128GB 6GB RAM 50MP Triple Camera",
+    "price": 292815.0,
+    "currency": "NGN",
+    "stock_status": "Out of Stock",
+    "url": "https://www.jumia.com.ng/product/xiaomi-redmi-note-12-128gb-6gb-ram-50mp-triple-camera-25"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-XIAOMI-REDMI-NOTE-12-26",
+    "title": "Xiaomi Redmi Note 12 128GB Smartphone 50MP",
+    "price": 866932.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/xiaomi-redmi-note-12-128gb-smartphone-50mp-26"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-XIAOMI-REDMI-NOTE-12-27",
+    "title": "Xiaomi Redmi Note 12 128GB 6GB RAM 50MP Camera",
+    "price": 179.76,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/xiaomi-redmi-note-12-128gb-6gb-ram-50mp-camera-27"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-XIAOMI-REDMI-NOTE-12-28",
+    "title": "Xiaomi Redmi Note 12 128GB - 6GB RAM - 50MP",
+    "price": 173.05,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/xiaomi-redmi-note-12-128gb-6gb-ram-50mp-28"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-XIAOMI-REDMI-NOTE-12-29",
+    "title": "Xiaomi Redmi Note 12 128GB 50MP Triple Camera Original",
+    "price": 1081.3,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/xiaomi-redmi-note-12-128gb-50mp-triple-camera-original-29"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-IPHONE-14-PRO-MAX-30",
+    "title": "Apple iPhone 14 Pro Max 256GB Unlocked Deep Purple",
+    "price": 1136.01,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/apple-iphone-14-pro-max-256gb-unlocked-deep-purple-30"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-IPHONE-14-PRO-MAX-31",
+    "title": "Apple iPhone 14 Pro Max 256GB - Unlocked",
+    "price": 1148.15,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/apple-iphone-14-pro-max-256gb-unlocked-31"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-IPHONE-14-PRO-MAX-32",
+    "title": "iPhone 14 Pro Max 256GB Original Apple Smartphone",
+    "price": 3815.06,
+    "currency": "CNY",
+    "stock_status": "Out of Stock",
+    "url": "https://www.alibaba.com/product/iphone-14-pro-max-256gb-original-apple-smartphone-32"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-IPHONE-13-PRO-33",
+    "title": "Apple iPhone 13 Pro 128GB Unlocked Sierra Blue",
+    "price": 744.79,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/apple-iphone-13-pro-128gb-unlocked-sierra-blue-33"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-IPHONE-13-PRO-34",
+    "title": "Apple iPhone 13 Pro 128GB - Unlocked - Good Condition",
+    "price": 901.23,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/apple-iphone-13-pro-128gb-unlocked-good-condition-34"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-IPHONE-13-PRO-35",
+    "title": "iPhone 13 Pro 128GB Original Apple Smartphone",
+    "price": 2963.66,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/iphone-13-pro-128gb-original-apple-smartphone-35"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-DELL-XPS-13-LAPTOP-36",
+    "title": "Dell XPS 13 Laptop Intel Core i7 16GB RAM 512GB SSD",
+    "price": 1309.82,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.amazon.com/product/dell-xps-13-laptop-intel-core-i7-16gb-ram-512gb-ssd-36"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-DELL-XPS-13-LAPTOP-37",
+    "title": "Dell XPS 13 9310 Laptop i7 16GB 512GB",
+    "price": 1076.71,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/dell-xps-13-9310-laptop-i7-16gb-512gb-37"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-KITCHEN-BLENDER-2L-38",
+    "title": "Kitchen Blender 2L 1000W Stainless Steel Jar",
+    "price": 73080.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/kitchen-blender-2l-1000w-stainless-steel-jar-38"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-KITCHEN-BLENDER-2L-39",
+    "title": "Kitchen Blender 2L Heavy Duty 1000W",
+    "price": 173356.0,
+    "currency": "UGX",
+    "stock_status": "Out of Stock",
+    "url": "https://kibuga.com/product/kitchen-blender-2l-heavy-duty-1000w-39"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-TREK-MOUNTAIN-BIKE-2-40",
+    "title": "Trek Marlin 7 Mountain Bike 29 inch Aluminum Frame",
+    "price": 532.18,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.ebay.com/product/trek-marlin-7-mountain-bike-29-inch-aluminum-frame-40"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-TREK-MOUNTAIN-BIKE-2-41",
+    "title": "Trek Marlin 7 29er Mountain Bike Aluminum Frame",
+    "price": 491.07,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/trek-marlin-7-29er-mountain-bike-aluminum-frame-41"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-LED-DESK-LAMP-TOUCH--42",
+    "title": "LED Desk Lamp Touch Dimmable USB - variant 96",
+    "price": 67305.0,
+    "currency": "NGN",
+    "stock_status": "Out of Stock",
+    "url": "https://www.jumia.com.ng/product/led-desk-lamp-touch-dimmable-usb-variant-96-42"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-YOGA-MAT-NON-SLIP-6M-43",
+    "title": "Yoga Mat Non-Slip 6mm Thick Exercise - variant 52",
+    "price": 53025.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/yoga-mat-non-slip-6mm-thick-exercise-variant-52-43"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-BACKPACK-LAPTOP-15-6-44",
+    "title": "Backpack Laptop 15.6 inch Water Resistant - variant 64",
+    "price": 16125.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/backpack-laptop-15-6-inch-water-resistant-variant-64-44"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-WIRELESS-MOUSE-2-4G--45",
+    "title": "Wireless Mouse 2.4G Ergonomic Office - variant 81",
+    "price": 26415.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/wireless-mouse-2-4g-ergonomic-office-variant-81-45"
+  },
+  {
+    "platform": "jumia",
+    "region": "NG",
+    "sku": "JUMIA-COTTON-T-SHIRT-MEN-S-46",
+    "title": "Cotton T-Shirt Men's Crew Neck Black - variant 49",
+    "price": 74055.0,
+    "currency": "NGN",
+    "stock_status": "In Stock",
+    "url": "https://www.jumia.com.ng/product/cotton-t-shirt-men-s-crew-neck-black-variant-49-46"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-BACKPACK-LAPTOP-15-6-47",
+    "title": "Backpack Laptop 15.6 inch Water Resistant - variant 2",
+    "price": 209570.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/backpack-laptop-15-6-inch-water-resistant-variant-2-47"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-BLUETOOTH-SPEAKER-PO-48",
+    "title": "Bluetooth Speaker Portable Waterproof IPX7 - variant 15",
+    "price": 102372.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/bluetooth-speaker-portable-waterproof-ipx7-variant-15-48"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-STAINLESS-STEEL-WATE-49",
+    "title": "Stainless Steel Water Bottle 1L Insulated - variant 65",
+    "price": 260338.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/stainless-steel-water-bottle-1l-insulated-variant-65-49"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-STAINLESS-STEEL-WATE-50",
+    "title": "Stainless Steel Water Bottle 1L Insulated - variant 82",
+    "price": 165262.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/stainless-steel-water-bottle-1l-insulated-variant-82-50"
+  },
+  {
+    "platform": "kibuga",
+    "region": "UG",
+    "sku": "KIBUGA-WIRELESS-MOUSE-2-4G--51",
+    "title": "Wireless Mouse 2.4G Ergonomic Office - variant 70",
+    "price": 356668.0,
+    "currency": "UGX",
+    "stock_status": "In Stock",
+    "url": "https://kibuga.com/product/wireless-mouse-2-4g-ergonomic-office-variant-70-51"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-YOGA-MAT-NON-SLIP-6M-52",
+    "title": "Yoga Mat Non-Slip 6mm Thick Exercise - variant 42",
+    "price": 36.8,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/yoga-mat-non-slip-6mm-thick-exercise-variant-42-52"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-STAINLESS-STEEL-WATE-53",
+    "title": "Stainless Steel Water Bottle 1L Insulated - variant 31",
+    "price": 10.4,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/stainless-steel-water-bottle-1l-insulated-variant-31-53"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-PHONE-CASE-SAMSUNG-G-54",
+    "title": "Phone Case Samsung Galaxy Shockproof Clear - variant 94",
+    "price": 36.09,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/phone-case-samsung-galaxy-shockproof-clear-variant-94-54"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-WIRELESS-MOUSE-2-4G--55",
+    "title": "Wireless Mouse 2.4G Ergonomic Office - variant 85",
+    "price": 41.25,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/wireless-mouse-2-4g-ergonomic-office-variant-85-55"
+  },
+  {
+    "platform": "amazon",
+    "region": "US",
+    "sku": "AMAZON-BACKPACK-LAPTOP-15-6-56",
+    "title": "Backpack Laptop 15.6 inch Water Resistant - variant 78",
+    "price": 33.56,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.amazon.com/product/backpack-laptop-15-6-inch-water-resistant-variant-78-56"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-STAINLESS-STEEL-WATE-57",
+    "title": "Stainless Steel Water Bottle 1L Insulated - variant 52",
+    "price": 88.19,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.ebay.com/product/stainless-steel-water-bottle-1l-insulated-variant-52-57"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-BACKPACK-LAPTOP-15-6-58",
+    "title": "Backpack Laptop 15.6 inch Water Resistant - variant 58",
+    "price": 12.3,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/backpack-laptop-15-6-inch-water-resistant-variant-58-58"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-USB-C-CABLE-2M-NYLON-59",
+    "title": "USB C Cable 2m Nylon Braided Fast Charge - variant 76",
+    "price": 49.97,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/usb-c-cable-2m-nylon-braided-fast-charge-variant-76-59"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-PHONE-CASE-SAMSUNG-G-60",
+    "title": "Phone Case Samsung Galaxy Shockproof Clear - variant 91",
+    "price": 45.84,
+    "currency": "USD",
+    "stock_status": "In Stock",
+    "url": "https://www.ebay.com/product/phone-case-samsung-galaxy-shockproof-clear-variant-91-60"
+  },
+  {
+    "platform": "ebay",
+    "region": "US",
+    "sku": "EBAY-BLUETOOTH-SPEAKER-PO-61",
+    "title": "Bluetooth Speaker Portable Waterproof IPX7 - variant 10",
+    "price": 39.34,
+    "currency": "USD",
+    "stock_status": "Out of Stock",
+    "url": "https://www.ebay.com/product/bluetooth-speaker-portable-waterproof-ipx7-variant-10-61"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-LED-DESK-LAMP-TOUCH--62",
+    "title": "LED Desk Lamp Touch Dimmable USB - variant 70",
+    "price": 93.24,
+    "currency": "CNY",
+    "stock_status": "Out of Stock",
+    "url": "https://www.alibaba.com/product/led-desk-lamp-touch-dimmable-usb-variant-70-62"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-LED-DESK-LAMP-TOUCH--63",
+    "title": "LED Desk Lamp Touch Dimmable USB - variant 61",
+    "price": 233.78,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/led-desk-lamp-touch-dimmable-usb-variant-61-63"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-COTTON-T-SHIRT-MEN-S-64",
+    "title": "Cotton T-Shirt Men's Crew Neck Black - variant 46",
+    "price": 167.69,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/cotton-t-shirt-men-s-crew-neck-black-variant-46-64"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-PHONE-CASE-SAMSUNG-G-65",
+    "title": "Phone Case Samsung Galaxy Shockproof Clear - variant 8",
+    "price": 144.36,
+    "currency": "CNY",
+    "stock_status": "In Stock",
+    "url": "https://www.alibaba.com/product/phone-case-samsung-galaxy-shockproof-clear-variant-8-65"
+  },
+  {
+    "platform": "alibaba",
+    "region": "GLOBAL",
+    "sku": "ALIBABA-LED-DESK-LAMP-TOUCH--66",
+    "title": "LED Desk Lamp Touch Dimmable USB - variant 25",
+    "price": 86.62,
+    "currency": "CNY",
+    "stock_status": "Out of Stock",
+    "url": "https://www.alibaba.com/product/led-desk-lamp-touch-dimmable-usb-variant-25-66"
+  }
+]
